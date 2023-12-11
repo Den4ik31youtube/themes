@@ -1,15 +1,16 @@
 /**
- * @name Den4ik
- * @version 1.5
- * @author I_Den4ik_
+ * @name Kirito
+ * @author i_den4ik_
+ * @version 1.6
  * @description хз что написать
+ * @source https://github.com/Den4ik31youtube/themes
  */
 
 @import url('https://raw.githack.com/Den4ik31youtube/themes/main/transparency2.css');
 @import url('https://raw.githack.com/Den4ik31youtube/themes/main/core.css');
 
-:root {
-    --background: url('https://images2.alphacoders.com/128/1282993.jpg');
+:root{
+    --background: url('https://images3.alphacoders.com/711/711370.jpg');
     --activetext-colour: white;
 
     --primary1-colour: red;
@@ -26,6 +27,3 @@
     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 }
-
-Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png
-Transparency2 Module: https://raw.githack.com/Den4ik31youtube/themes/main/transparency2.css - By I_Den4ik_
